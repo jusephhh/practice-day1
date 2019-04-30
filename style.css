@@ -1,0 +1,16 @@
+#box1 {
+	border: 2px solid purple;
+	text-align: center;
+	font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+#box2 {
+	border: 2px solid black;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#box3 {
+	border: 2px solid black;
+	text-align: center;
+}
